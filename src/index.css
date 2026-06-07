@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Opcional: Fuentes base */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body, #root {
+  height: 100%;
+}
